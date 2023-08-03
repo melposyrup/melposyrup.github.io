@@ -22,4 +22,5 @@ tags: [github, git, jekyll, en] #lang tag: en, jp, zh
 6. (optional) open the PR, click on `Merge pull request`,   
    then (optional) `Delete` the branch.
 
+
    **Well done and hope you enjoy the blog!**
