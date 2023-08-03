@@ -1,6 +1,6 @@
 ---
-title: "Greetings！"
-date: 2023-08-01 00:50:00 +0900
+title: "Greetings!"
+date: 2023-08-03 # 00:50:00 +0900
 categories: [test]
 tags: [test] #lang tag: en, jp, zh
 ---
