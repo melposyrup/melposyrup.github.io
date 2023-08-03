@@ -5,7 +5,7 @@ categories: [notes]
 tags: [github, git, jekyll, en] #lang tag: en, jp, zh
 ---
 
-# After completing the tutorial on [github-pages](https://github.com/skills/github-pages)
+### After completing the tutorial on [github-pages](https://github.com/skills/github-pages)
 
 1. click the `main` dropdown menu and then click `view all branches`.
 
