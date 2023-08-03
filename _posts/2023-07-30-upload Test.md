@@ -1,5 +1,5 @@
 ---
-title: "Upload blog through Github website"
+title: "Uploading blog through Github website"
 date: 2023-07-30 # 00:45:00 +0900
 categories: [notes]
 tags: [github, git, jekyll, en] #lang tag: en, jp, zh

@@ -7,7 +7,7 @@ tags: [github, git, ruby, jekyll, en] #lang tag: en, jp, zh
 
 ***I would like to extend my sincere gratitude to [Techno Tim](https://www.youtube.com/watch?v=F8iOU1ci19Q) and [Jadehawk](https://www.youtube.com/watch?v=5z7_qp0CWBY) for their instructional videos on deploying jekyll-theme-chirpy on Windows. Their guidance has been of great help to me.***
 
-# Before th start
+# Before the start
 ## 1. Installing [Git](https://git-scm.com/)   
 ![Check on `Open Git Bash here` is recommended](https://raw.githubusercontent.com/melposyrup/imageHost_forPersonalUse/main/img/20230803165143.png)  
 Check the `Open Git Bash here`.
