@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Notes for GameDev
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "melposyrup.github.io"
+url: "https://melposyrup.github.io"
 
 github:
   username: melposyrup # change to your github username
