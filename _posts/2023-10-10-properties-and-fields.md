@@ -1,3 +1,10 @@
+---
+title: "Properties and Fields in C#"
+date: 2023-10-10 # 20:36:00 +0900
+categories: [C#]
+tags: [C#] #lang tag: jp
+---
+
 プロパティ（Properties）とフィールド（Fields）は、クラスや構造体、インターフェースのメンバーとしてデータを格納するために用いますが、いくつかの重要な違いがあります。
 
 ### フィールド（Fields）
