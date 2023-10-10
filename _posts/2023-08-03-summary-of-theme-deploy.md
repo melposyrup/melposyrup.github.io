@@ -77,7 +77,7 @@ bundle exec jekyll s
 Check for changes in http://127.0.0.1:4000
 
 ## 4. Update `Gemfile.lock`
-Before upload, run the following command:
+Before upload, **delete `Gemfile.lock` file**, and then run the following command:
 ```powershell
 bundle lock --add-platform x86_64-linux
 ```  
