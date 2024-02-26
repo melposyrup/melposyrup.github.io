@@ -1,5 +1,5 @@
 ---
-title: "Updating my blog on macOS"
+title: "Updating the blog on MacOS"
 date: 2024-02-26 22:35:00 +0900 
 categories: [notes]
 tags: [github, git, churby, ruby, jekyll, en] #lang tag: en, jp, zh
@@ -28,7 +28,7 @@ The output may look like following:
 
 ![chrupy setup](https://raw.githubusercontent.com/melposyrup/imageHost/main/img/202402262310.png)
 
-To add the basic and auto configuration to `zsh` file, first we need to open the `zsh` file with VSCode:
+To add the basic and auto configuration to `zsh` file, you need to open the `zsh` file with VSCode:
 ```powershell
 code ~/.zshrc
 ```
