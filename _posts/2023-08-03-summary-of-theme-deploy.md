@@ -35,7 +35,7 @@ jekyll -v
 bundler -v
 ```   
 
-# 2. 2.Start with [Chirpy Starter](https://github.com/cotes2020/chirpy-starter)  
+# 2. Start with [Chirpy Starter](https://github.com/cotes2020/chirpy-starter)  
 
 ## 2.1. Create repository
 Click the link `use this template`,   
@@ -65,7 +65,7 @@ Make some changes on variables:
 - url: e.g. https://username.github.io
 - avatar: URL of picture
 
-Open terminal (make sure your directory are inside the project folder),  
+Open terminal (make sure your directory is inside the project folder),  
 run the following command line by line:
 ```powershell
 bundle 
