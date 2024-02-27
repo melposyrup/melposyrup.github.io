@@ -143,6 +143,7 @@ git push
 
 # 3. Congratulations
 Now you are able to update your blog on MacOS, which can be more stable compared to Windows. 
+
 Have fun!
 
 ## 3.1. References
