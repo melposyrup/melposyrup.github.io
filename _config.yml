@@ -20,7 +20,7 @@ timezone: Japan
 
 title: kin # the main title
 
-tagline: Notes for GameDev # it will display as the sub-title
+tagline: Game Programmer | US CN JP # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Game progammer | US CN JP
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: kin
-  email: example@domain.com # change to your email address
+  email: wenerenew@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/username # change to your github homepage
