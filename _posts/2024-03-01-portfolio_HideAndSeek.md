@@ -1,8 +1,8 @@
 ---
 title: "UE5「HideAndSeek」"
-date: 2024-03-01 01:35:00 +0900 
+date: 2024-03-01 06:25:00 +0900 
 categories: [notes]
-tags: [portfolio, jp, Unity, csharp] #lang tag: en, jp, zh
+tags: [portfolio, jp, UnrealEngine, cpp] #lang tag: en, jp, zh
 ---
 
 {% include embed/youtube.html id='WbC8-0DiKpM' %}
