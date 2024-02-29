@@ -2,7 +2,7 @@
 title: "Updating the blog on MacOS"
 date: 2024-02-26 22:35:00 +0900 
 categories: [notes]
-tags: [github, git, churby, ruby, jekyll, en] #lang tag: en, jp, zh
+tags: [github, git, chruby, ruby, jekyll, en] #lang tag: en, jp, zh
 ---
 
 
@@ -24,7 +24,8 @@ Check Chruby-related commands:
 brew info chruby
 ```  
 
-The output may look like following:
+> The output may look like following:
+{: .prompt_tip}
 
 ![chrupy setup](https://raw.githubusercontent.com/melposyrup/imageHost/main/img/202402262310.png)
 
@@ -62,6 +63,7 @@ Follow these steps to install the code command in PATH:
 3. Type `Shell Command: Install 'code' command in PATH`.
 4. Select and execute the command from the search results.
 5. Restart the terminal.
+
 After this operation, VSCode will add the code command to your environment variables, allowing you to use the `code .` command in the terminal to open the project in current directory.
 
 ### 1.2.2. If You Encounter `EACCES: permission denied, unlink '/usr/local/bin/code'`
@@ -129,6 +131,7 @@ bundle update
 # 2. Update Your Blog
 
 Edit or add `.md` files, preview the effect at http://127.0.0.1:4000, then stop the preview by pressing `ctrl + c`.
+
 Enter the following command to update the `gemfile.lock` file:
 ```powershell
 bundle lock --add-platform x86_64-linux
